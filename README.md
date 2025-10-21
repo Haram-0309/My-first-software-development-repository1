@@ -1,3 +1,11 @@
 # My-first-software-development-repository1
 This software repository contains my first software for the module Software Development. It stores all of the related files including a README file which contains information about the software I have written
-I am Haram Fatima. As a developer, i understand that software versioning helps teams manage changes, track progress, and communicate updates effectively. This system provides clarity for users and developers, indicating the nature of changes and compatibility. It provides a good versioning practices improve collaboration, deployment, and maintenance of software.
+I am Haram Fatima. As a developer, i understand that software versioning helps teams manage changes, track progress, and communicate updates effectively. This system provides clarity for users and developers, indicating the nature of changes and compatibility. It provides a good versioning practices improve collaboration, deployment, and maintenance of software. (1.0.0 — initial release)
+
+(1.1.0 — added new features, no breaking changes)
+
+(1.1.1 — fixed bugs)
+
+(2.0.0 — introduced breaking changes or major rewrite)
+
+
